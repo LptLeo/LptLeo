@@ -29,11 +29,12 @@ Atualmente, dedico meu tempo ao desenvolvimento de um **LotePIM (Sistema de Rast
 
 ### 📂 Projetos em Destaque (Foco em Solução de Problemas)
 
-#### [LotePIM](https://github.com/LptLeo/LotePIM)
+#### 🏗️ [LotePIM](https://github.com/LptLeo/LotePIM)
 **LotePIM é uma plataforma de gestão industrial full-stack que digitaliza e automatiza o ciclo de vida completo de lotes de produção — da abertura à inspeção final — com rastreabilidade total, métricas em tempo real e controle de qualidade integrado.**
 
-#### [Mundo Geek](https://github.com/LptLeo/Mundo-Geek)
+#### 📦 [Mundo Geek](https://github.com/LptLeo/Mundo-Geek)
 **Este projeto foi desenvolvido para atender a uma necessidade real de negócio da "Mundo Geek", uma loja especializada em itens de cultura pop que enfrentava dificuldades com o controle manual de estoque.**
+
 ---
 
 ### 📫 Conecte-se comigo
