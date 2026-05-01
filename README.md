@@ -1,4 +1,4 @@
-# Olá, sou o Leonardo Tavares 👋 
+# Olá, sou o Leonardo Pereira Tavares 👋 
 
 **Fullstack Software Engineer in progress | TypeScript Enthusiast | Linux User**
 
